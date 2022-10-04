@@ -1,0 +1,33 @@
+ /* things*/
+ body{
+    text-align: center;
+ }
+ h1{    
+    text-align: center;
+ }
+ h2{    
+    text-align: center;
+ }
+ image{
+    justify-content: center;
+    align-items: center;
+ }
+ p{
+    text-align: center;
+ }
+ .ul{
+    text-align: left;
+    display: inline-block;
+ }
+ .ol{
+    text-align: left;
+    display: inline-block;
+ }
+ .text{
+    text-align:left;
+    display: inline-block;
+ }
+ .text2{
+    text-align:center;
+ }
+ 
